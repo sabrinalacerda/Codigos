@@ -1,0 +1,4 @@
+{
+    "python.analysis.autoIndent": false,
+    "python.REPL.enableREPLSmartSend": false
+}

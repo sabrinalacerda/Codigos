@@ -19,4 +19,4 @@ for fruta in frutas:
     # Loop de 0 a 4 (de X a Y, onde Y é exclusivo)
 for numero in range(2, 5):
     print(f"Número atual: {numero}")
-    
+

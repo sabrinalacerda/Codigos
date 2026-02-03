@@ -1,4 +1,5 @@
 # Conversão de Bases Numéricas
+# Basicamente, da pra usar o resto da divisão para converter uma base em outra
 def de_decimal (n, base):
     # quociente
     quociente = n

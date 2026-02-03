@@ -1,4 +1,5 @@
-
+# Aprendendo alguns conceitos básicos:
+# Imprimir a pirâmide do mário
 def mario_pyramid(Altura):
     for Contador in range(Altura):
         for Espacos in range(Altura - Contador - 1):
@@ -10,6 +11,7 @@ def mario_pyramid(Altura):
 Altura = int(input("Digite a altura da pirâmide: "))
 mario_pyramid(Altura);
 
+# Imprimir valores de uma lista
 frutas = ["maçã", "banana", "cereja"]
 
 # Loop X (fruta) em Y (frutas)

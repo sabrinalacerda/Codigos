@@ -11,8 +11,7 @@ def de_decimal (n, base):
     numero.insert(0, int(quociente))
     print (numero)
 
-    # print list
+# Converte base decial para qualquer outra base
 usuario = input("Coloque um numero: ")
 de_decimal (int(usuario), 16)
-# teste de commit
 

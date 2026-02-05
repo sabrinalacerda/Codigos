@@ -32,7 +32,7 @@ def fatorar_numero(numero):
             resultado.append(i)
     print(resultado)
 
-# Relevar Fatores Primos de um número.
+# Relevar Fatores Primos de um número
 N = int(input("Digite um número: "))
 fatorar_numero(N)
 
